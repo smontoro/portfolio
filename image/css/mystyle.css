@@ -528,6 +528,12 @@ h2.background:after{
   letter-spacing: 8px;
   font-weight: 300;
 }
+
+#home .social-icons a i{
+  color: white;
+  padding: 20px 10px 0 10px;
+}
+
 /* =====================
    End Header
 ===================== */
